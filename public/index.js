@@ -31,6 +31,7 @@ window.onscroll = () => {
     }
   }
 };
+/////
 $(".owl-carousel").owlCarousel({
   center: false,
   loop: false,
